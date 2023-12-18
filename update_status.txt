@@ -1,2 +1,3 @@
 Update_status:None
-Update_main:None
+Update_main:True
+Update_arduino:None
