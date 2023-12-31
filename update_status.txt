@@ -1,4 +1,4 @@
-Update_setup:True
+Update_setup:None
 Update_main:True
 Update_arduino:True
 Update_zone_task:True
