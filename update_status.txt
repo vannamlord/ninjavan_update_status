@@ -1,5 +1,5 @@
 Update_setup:None
-Update_main:True
+Update_main:None
 Update_arduino:None
 Update_zone_task:None,HCM:False,HN:False,DNG:False,KHH:False,DAK:False,GIL:False,NGA:False
 update_handle_clear_data:None
